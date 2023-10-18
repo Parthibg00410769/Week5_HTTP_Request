@@ -1,4 +1,4 @@
-package ie.atu.week5_httprequestsboot;
+package ie.atu.week5_httprequestsboot.BlockingApproach;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
