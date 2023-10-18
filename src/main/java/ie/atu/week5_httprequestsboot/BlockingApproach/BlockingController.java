@@ -1,4 +1,4 @@
-package ie.atu.week5_httprequestsboot;
+package ie.atu.week5_httprequestsboot.BlockingApproach;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
